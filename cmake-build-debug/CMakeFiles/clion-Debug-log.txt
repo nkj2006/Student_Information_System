@@ -1,0 +1,4 @@
+"E:\软件\jetbrians\CLion\CLion 2023.1.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/软件/jetbrians/CLion/CLion 2023.1.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S E:\CodeProject\JetBriansCode\CLion\Code\stu_information -B E:\CodeProject\JetBriansCode\CLion\Code\stu_information\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/CodeProject/JetBriansCode/CLion/Code/stu_information/cmake-build-debug
